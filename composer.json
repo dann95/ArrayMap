@@ -1,0 +1,19 @@
+{
+    "name": "thusk/array-map",
+    "description": "To map a array we need that",
+    "type": "Lib",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Rubin",
+            "email": "danielrubin95@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+	 "autoload": {
+        "psr-4": {
+            "Map\\": "src/"
+        }
+    },
+    "require": {}
+}
